@@ -1,6 +1,6 @@
 # CAFO
 
-To set up the conda environment for executing the notebooks, run
+To set up the `cafo` conda environment for executing the notebooks, run
 `source create_environment.sh`
 from the `environments/` subdirectory.
 
